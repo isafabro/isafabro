@@ -9,7 +9,7 @@ Meu nome é **_Isadora Keller Fabro_** 😄
 ### Para entrar em contato comigo: 
  📧 _isadora.fabro@escola.pr.gov.br_
  
- 💼 _isafabro__
+ 💼 _@isafabro__
 
 
 
