@@ -3,6 +3,7 @@
 Meu nome é **_Isadora Keller Fabro_** 😄
 
 - 📘 Sou Professora de Pensamento Computacional;
+- 🖊️ Estou estudando na [Alura](https://www.alura.com.br)
 - ⭐ Tenho 22 anos;
 - 😎 Utilizo esse perfil para compartilhar meus projetos desenvolvidos;
 
@@ -12,5 +13,5 @@ Meu nome é **_Isadora Keller Fabro_** 😄
  💼 _@isafabro__
 
 
-
+![](https://media.tenor.com/Scu6ExRW824AAAAM/inside-out.gif)
 
